@@ -1,0 +1,8 @@
+.flex-justify-center, .flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container {
+  padding: 10px;
+}/*# sourceMappingURL=style.css.map */

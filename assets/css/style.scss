@@ -1,0 +1,9 @@
+.flex-justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container {
+    padding: 10px;
+    @extend .flex-justify-center;
+}
